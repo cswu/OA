@@ -1,2 +1,2 @@
-pilotSMS
-========
+Our Open Atrium Setup
+=====================
