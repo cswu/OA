@@ -1,3 +1,3 @@
-Our SMS Field Reporting Product
+Our SMS Field Reporting
 ===============================
 Using the Yii Framework
